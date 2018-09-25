@@ -22,10 +22,5 @@ This is an application where the user can create data, each consists of a person
 5. Register this application under a new Firebase project
 6. Launch the SampleApp from Xcode
 
-## Tutorial
-The tutorial to make this application from scratch is available [here](https://ios-workshop-nus-orbital-2018.gitbook.io/project/)
-
-**Note: The tutorial is still under development.**
-
 ## License
 This project is available under the MIT license. See the LICENSE file for more info.
